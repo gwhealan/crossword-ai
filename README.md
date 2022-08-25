@@ -10,10 +10,11 @@ The main issues seen in the initial project are, as previously stated, mainly du
 
 ## Issues List:
 - [ ] Improve Heuristic.
-- [ ] * *\(Optional) Swap to Q-learning* *
+- [ ] *\(Optional) Swap to Q-learning*
 - [ ] Restructure trie return system
-- [ ] * *\(Optional) Port trie to embeded C/C++ code* *
+- [ ] *\(Optional) Port trie to embeded C/C++ code*
 
 ## Contributers:
 Graham Whealan.
-Initial code forked from project by Graham Whealan, Shoshanah Bernhardt, and William Sprouse.
+
+Initial code forked from [project](https://github.com/wilsprouse/422-proj2) by Graham Whealan, Shoshanah Bernhardt, and William Sprouse.
